@@ -1,0 +1,55 @@
+Analyse exploratoire initiale sauvegardée dans 'initial_analysis_df_09.txt'
+
+Carte des valeurs nulles sauvegardée dans 'null_values_heatmap_df_09.png'
+
+Distribution des notes sauvegardée dans 'distribution_rating_df_09.png'
+
+DataFrame nettoyé sauvegardé dans 'df_cleaned_with_analysis_df_09_avec_category_nps.csv'
+
+Graphique sauvegardé dans 'median_tokens_by_month_df_09_avec_category_nps.png'
+
+Graphique sauvegardé dans 'nps_distribution_pie_chart_df_09_avec_category_nps.png'
+
+Graphique sauvegardé dans 'avg_tokens_by_platform_df_09_avec_category_nps.png'
+
+
+
+
+    --- ANALYSE EXPLORATOIRE INITIALE ---
+    Nombre de lignes : 12669
+    Nombre de colonnes : 6
+
+
+
+    Colonnes disponibles :
+    ['title', 'rating', 'body', 'category', 'month_year', 'plate_forme']
+
+
+
+    Types de données :
+    title          object
+rating          int64
+body           object
+category       object
+month_year     object
+plate_forme    object
+dtype: object
+
+    Valeurs nulles par colonne :
+    title          0
+rating         0
+body           0
+category       0
+month_year     0
+plate_forme    0
+dtype: int64
+
+    Pourcentage de valeurs nulles par colonne :
+    title          0.0
+rating         0.0
+body           0.0
+category       0.0
+month_year     0.0
+plate_forme    0.0
+dtype: float64%
+

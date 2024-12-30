@@ -1,0 +1,14 @@
+
+1. Médiane des Tokens par Mois:
+   - Le graphique montre une variation dans la longueur des commentaires par mois.
+   - Les changements pourraient refléter des événements spécifiques ou une évolution des habitudes.
+
+2. Répartition des Segments NPS:
+   - Les détracteurs sont majoritaires, montrant une tendance générale d'insatisfaction dans les données.
+
+3. Relation Tokens/Plateformes:
+   - Des plateformes comme AMAZON semblent favoriser des retours plus longs, influencés par les segments NPS.
+
+4. Commentaires Courts et Longs:
+   - 18.22% des détracteurs écrivent des commentaires courts.
+   - 12.90% des promoteurs laissent des commentaires longs.

@@ -1,0 +1,5 @@
+
+Contraintes et Défis :
+- Imbalance des classes : La classe 'Détracteur' est majoritaire.
+- Dépendance sur une seule variable explicative (nb_tokens).
+- Temps de calcul pour GridSearch avec plusieurs hyperparamètres.

@@ -1,0 +1,5 @@
+
+Enjeux Stratégiques :
+- Optimisation des actions marketing en ciblant les détracteurs.
+- Segmentation précise pour améliorer la satisfaction client.
+- Faciliter l'automatisation des décisions stratégiques grâce au modèle XGBoost.

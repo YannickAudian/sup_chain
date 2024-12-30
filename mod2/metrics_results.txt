@@ -1,0 +1,108 @@
+
+LogisticRegression :
+Accuracy : 0.81
+F1 Score : 0.81
+Precision : 0.82
+Recall : 0.81
+Cross-Validation Score : 0.82 (±0.01)
+
+              precision    recall  f1-score   support
+
+  Détracteur       0.86      0.75      0.80      1954
+   Promoteur       0.77      0.87      0.82      1841
+
+    accuracy                           0.81      3795
+   macro avg       0.82      0.81      0.81      3795
+weighted avg       0.82      0.81      0.81      3795
+
+
+DecisionTree :
+Accuracy : 0.84
+F1 Score : 0.84
+Precision : 0.84
+Recall : 0.84
+Cross-Validation Score : 0.83 (±0.01)
+
+              precision    recall  f1-score   support
+
+  Détracteur       0.81      0.89      0.85      1954
+   Promoteur       0.87      0.78      0.82      1841
+
+    accuracy                           0.84      3795
+   macro avg       0.84      0.84      0.84      3795
+weighted avg       0.84      0.84      0.84      3795
+
+
+RandomForest :
+Accuracy : 0.84
+F1 Score : 0.83
+Precision : 0.84
+Recall : 0.84
+Cross-Validation Score : 0.83 (±0.01)
+
+              precision    recall  f1-score   support
+
+  Détracteur       0.82      0.87      0.84      1954
+   Promoteur       0.85      0.80      0.82      1841
+
+    accuracy                           0.84      3795
+   macro avg       0.84      0.83      0.83      3795
+weighted avg       0.84      0.84      0.83      3795
+
+
+GradientBoosting :
+Accuracy : 0.84
+F1 Score : 0.84
+Precision : 0.84
+Recall : 0.84
+Cross-Validation Score : 0.83 (±0.01)
+
+              precision    recall  f1-score   support
+
+  Détracteur       0.81      0.90      0.85      1954
+   Promoteur       0.88      0.78      0.82      1841
+
+    accuracy                           0.84      3795
+   macro avg       0.84      0.84      0.84      3795
+weighted avg       0.84      0.84      0.84      3795
+
+
+SVM :
+Accuracy : 0.83
+F1 Score : 0.83
+Precision : 0.84
+Recall : 0.83
+Cross-Validation Score : 0.84 (±0.01)
+
+              precision    recall  f1-score   support
+
+  Détracteur       0.82      0.86      0.84      1954
+   Promoteur       0.85      0.80      0.83      1841
+
+    accuracy                           0.83      3795
+   macro avg       0.84      0.83      0.83      3795
+weighted avg       0.84      0.83      0.83      3795
+
+
+XGBoost :
+Accuracy : 0.84
+F1 Score : 0.84
+Precision : 0.84
+Recall : 0.84
+Cross-Validation Score : 0.83 (±0.01)
+
+              precision    recall  f1-score   support
+
+  Détracteur       0.82      0.87      0.85      1954
+   Promoteur       0.85      0.80      0.82      1841
+
+    accuracy                           0.84      3795
+   macro avg       0.84      0.83      0.83      3795
+weighted avg       0.84      0.84      0.84      3795
+
+
+
+Meilleur Modèle:
+GradientBoosting
+Accuracy : 0.84
+Cross-Validation Score : 0.83

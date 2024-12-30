@@ -1,0 +1,37 @@
+
+    --- ANALYSE EXPLORATOIRE INITIALE ---
+    Nombre de lignes : 12669
+    Nombre de colonnes : 6
+
+    Colonnes disponibles :
+    ['title', 'rating', 'body', 'category', 'month_year', 'plate_forme']
+
+    Types de données :
+    title          object
+rating          int64
+body           object
+category       object
+month_year     object
+plate_forme    object
+dtype: object
+
+    Valeurs nulles par colonne :
+    title          0
+rating         0
+body           0
+category       0
+month_year     0
+plate_forme    0
+dtype: int64
+
+    Pourcentage de valeurs nulles par colonne :
+    title          0.0
+rating         0.0
+body           0.0
+category       0.0
+month_year     0.0
+plate_forme    0.0
+dtype: float64%
+
+    Duplicats : 9 lignes dupliquées
+    

@@ -1,0 +1,12 @@
+Accuracy: 0.84
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  Détracteur       0.82      0.91      0.86      1953
+   Promoteur       0.87      0.81      0.84      1747
+      Neutre       0.00      0.00      0.00        95
+
+    accuracy                           0.84      3795
+   macro avg       0.56      0.57      0.57      3795
+weighted avg       0.82      0.84      0.83      3795
